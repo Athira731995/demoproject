@@ -42,5 +42,5 @@ console.log(names_new);
 let myarray=["hi","hello","how","r","u?"]
 let s=myarray.join(" ")
 console.log(s);
-
+console.log("hello word");
 
